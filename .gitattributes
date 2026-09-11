@@ -1,3 +1,4 @@
 * filter=lfs diff=lfs merge=lfs -text
 cybervision_security filter=lfs diff=lfs merge=lfs -text
 cybervision_security.zip filter=lfs diff=lfs merge=lfs -text
+cybervision_security.zip filter=lfs diff=lfs merge=lfs -text
